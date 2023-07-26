@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solar Syaytem 2</title>
+    <link rel="stylesheet" href="solar system 2.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="sun">
+            <div class="planet-name" data-name="Sun">
+                Sun
+            </div>
+            <div class="earth">
+                <div class="planet-name" data-name="Earth">
+                    Earth
+                </div>
+                <div class="moon">
+                    <div class="planet-name" data-name="Moon">
+                        Moon
+                    </div>
+                </div>
+                <div class="mars">
+                     <div class="planet-name" data-name="Mars"></div>
+                </div>
+                    Mars
+                </div>
+            </div>
+            <script>
+                function createStars() {
+                    const container = document.querySelector('.container');
+                for (let i=0; i<1000; i++)
+                { // Increase the number of stars to 1000
+                    const star = document.createElement('div');
+                    star.className='star';
+                    star.style.width='1px';
+                    star.style.height='1px';
+                    star.style.top= Math.random()*100 + '%';
+                    star.style.left= Math.random()*100 + '%';
+                    container.appendChild(star); 
+                }
+            }
+            createStars();   
+            </script>
+        </div>
+    </div>
+</body>
+</html>
