@@ -26,3 +26,218 @@
             </div>
         </nav>
     </header>
+
+    <main>
+        <div class="cont">
+            <div class="slider">
+                <img src="p3.jpg" height="595px" width="1200px">
+            </div>
+
+            <div class="card">
+                <h2 class="my-2">Join the cricket fun</h2>
+                <div class="cards">
+                    <div class="card-item">
+                        <img src="batt.jpeg.jpg" alt="">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Bats</p>
+                            <p class="text-centre my-1">Min 20% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="kit.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Kits</p>
+                            <p class="text-centre my-1">Min 14% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="batt.jpeg.jpg" alt="">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Bats</p>
+                            <p class="text-centre my-1">Min 20% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr>
+
+            <div class="card">
+                <h2 class="my-2">Join the Anime store</h2>
+                <div class="cards">
+                    <div class="card-item">
+                        <img src="batt.jpeg.jpg" alt="">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Bats</p>
+                            <p class="text-centre my-1">Min 20% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="kit.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Kits</p>
+                            <p class="text-centre my-1">Min 14% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="batt.jpeg.jpg" alt="">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Bats</p>
+                            <p class="text-centre my-1">Min 20% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+            <div class="card">
+                <h2 class="my-2">Best Mobile coVers</h2>
+                <div class="cards">
+                    <div class="card-item">
+                        <img src="batt.jpeg.jpg" alt="">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Bats</p>
+                            <p class="text-centre my-1">Min 20% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="kit.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Kits</p>
+                            <p class="text-centre my-1">Min 14% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="batt.jpeg.jpg" alt="">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Bats</p>
+                            <p class="text-centre my-1">Min 20% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+
+                    <div class="card-item">
+                        <img src="balll.jpeg.jpg">
+
+                        <div class="lines">
+                            <p class="text-centre my-1">Cricket Ball</p>
+                            <p class="text-centre my-1">Min 25% off</p>
+                            <p class="text-centre my-1">Grab Now</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="flex-all-centre">
+        <p>Copyright &copy; MyCart.com </p>
+    </footer>
+
+</body>
+
+</html>
+
+
